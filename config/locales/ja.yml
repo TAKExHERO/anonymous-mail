@@ -1,0 +1,8 @@
+ja:
+  activerecord:
+    attributes:
+      inquiry:
+        name: "通報相手のお名前"
+        email: "通報相手のメールアドレス"
+        relationship: "通報相手との関係"
+        content: "何か伝えたいこと"
